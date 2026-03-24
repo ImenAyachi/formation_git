@@ -17,4 +17,4 @@ class Chien(Animal):
     def faire_la_patte(self):
         print(f"{self.nom} fait la patte!")
         
-    
+# kajdfkj
